@@ -1,4 +1,4 @@
-<h1>Home Depot Strategic Management Audit Report</h1>
+<h1>Home Depot Strategic Management</h1>
 
 <p align="center">
 <img src="https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/mYWONUcFJ6X-QFtWC5-9idvHXB4=/1660x934/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/ZOIXOKS7ORGIXNWD6NUH7B3TVI.jpg" height="80%" width="80%"/>
